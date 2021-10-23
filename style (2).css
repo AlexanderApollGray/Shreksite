@@ -1,0 +1,33 @@
+html {
+    background: url("swamp.jpg") no-repeat fixed center;
+    background-size: cover;
+}
+
+/* Page Switching */
+a {
+    color: yellowgreen;
+}
+
+/* Page Switching */
+.active {
+    color: white;
+}
+
+/* Page Switching */
+body {
+    text-align: center;
+}
+
+div {
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+}
+
+h1 {
+    font-size: xxx-large;
+}
+
+p {
+    font-size: x-large;
+}

@@ -1,0 +1,85 @@
+html {
+    background: url("outhouse.jpg") no-repeat fixed center;
+    background-size: cover;
+}
+
+/* Page Switching */
+a {
+    color: yellowgreen;
+}
+
+/* Page Switching */
+.active {
+    color: white;
+}
+
+/* Page Switching */
+body {
+    text-align: center;
+}
+
+div {
+    background: rgba(255, 255, 255, 0.7);
+    width: 800px;
+    padding: 25px 100px;
+    margin: 20px auto;
+    border-radius: 25px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: yellowgreen;
+    background-color: rgb(88, 66, 66);
+    width: 500px;
+    margin: auto;
+    border-radius: 15px;
+}
+
+p {
+    text-align: left;
+    font-size: medium;
+}
+
+#ref {
+    font-size: medium;
+    text-align: center;
+}
+
+#link {
+    color: blue;
+}
+
+/* Main Character Images */
+#shrek-img {
+    width: 110px;
+}
+
+#donkey-img {
+    width: 100px;
+}
+
+#fiona-img {
+    width: 170px;
+}
+
+#boots-img {
+    width: 150px;
+}
+
+/* Main Villain Images */
+#farquaad-img {
+    width: 140px;
+}
+
+#fairy-img {
+    width: 170px;
+}
+
+#charming-img {
+    width: 150px;
+}
+
+#rumpel-img {
+    width: 94px;
+}

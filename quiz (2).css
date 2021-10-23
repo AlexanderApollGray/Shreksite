@@ -1,0 +1,48 @@
+html {
+    background: url("shrek-characters.png") no-repeat fixed top;
+    background-size: cover;
+}
+
+/* Page Switching */
+a {
+    color: yellowgreen;
+}
+
+/* Page Switching */
+.active {
+    color: white;
+}
+
+/* Page Switching */
+body {
+    text-align: center;
+}
+
+div {
+    background: rgba(255, 255, 255, 0.75);
+    width: 800px;
+    padding: 25px 100px;
+    margin: 30px auto;
+    border-radius: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: yellowgreen;
+    background-color: rgb(88, 66, 66);
+    width: 500px;
+    margin: auto;
+    border-radius: 15px;
+}
+
+input {
+    width: 300px;
+    border-radius: 10px;
+}
+
+button {
+    background-color: yellowgreen;
+    width: 60px;
+    border-radius: 15px;
+    border-color: green;
+}
